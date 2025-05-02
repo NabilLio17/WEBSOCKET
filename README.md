@@ -12,6 +12,10 @@
 WebSocket adalah teknologi yang memungkinkan komunikasi dua arah secara langsung antara browser dan server. Jadi, setelah koneksi dibuka, keduanya bisa saling kirim data kapan saja tanpa harus menunggu permintaan dulu. Ini sangat berguna untuk aplikasi yang butuh update cepat, seperti chat, game online, atau notifikasi langsung. Dibanding HTTP biasa, WebSocket lebih cepat dan efisien karena tidak perlu buka-tutup koneksi terus-menerus.
 
 ## cara pengimpementasianya
+
+### download node.js (LTR)
+<hr>
+
 masuk ke command prompt (CMD)
 Kemudian ketik kode berikut :
 ### mkdir websocket 
@@ -28,6 +32,8 @@ Kemudian ketik kode berikut :
 >untuk masuk pada folder websocket yang barusaja dibuat
 ### npm instal ws 
 >untuk Menginstal library ws (WebSocket) di proyek Node.js
+### node server.js
+>Menjalankan file JavaScript bernama server.js menggunakan Node.js.
 
 <hr>
 
