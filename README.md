@@ -4,7 +4,7 @@
 |-------|---------
 | NIM   | 312310576
 | Nama  | Nabil Lio Sawares
-| Kelas | TI.23.A6
+| Kelas | TI.23.A2
 | Dosen |  Agung Nugroho, S.Kom., M.Kom.
 | Link Artikel | https://medium.com/@nabilsawares/websocket-solusi-komunikasi-dua-arah-dalam-dunia-web-1f223b00bd93 |
 
